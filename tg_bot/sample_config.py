@@ -10,8 +10,7 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "
-6330395"
+    API_KEY = "6330395"
     OWNER_ID = "988661515" # If you dont know, run @MissRose_bot and do /id in pm
     OWNER_USERNAME = "main_STRYKER"
 
